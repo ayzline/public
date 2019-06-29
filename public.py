@@ -12,7 +12,7 @@ from googletrans import Translator
 import time,random,sys,json,codecs, threading,glob,urllib,urllib2,urllib3,re,ast,os, subprocess,requests,tempfile
 
 cl = LINETCR.LINE()
-cl.login(token="token bot")
+cl.login(token="EGY1Jfij2hC5iF5SPYP2.kvzI09Jb8kpFnmC2O9SWCG.WPPpe65w4Wh85PCltFPGSHw/wsGPLSuW+oZFQ3ugRsk=")
 #cl.login(token='TOKEN_HERE')
 cl.loginResult()
 print "PUBLICK PRANKBOTS SUCCESS LOGIN\nSELAMAT MENGGUNAKAN"
@@ -115,8 +115,8 @@ KAC=[cl]
 mid = cl.getProfile().mid
 
 Bots=[mid]
-Creator= "mid kamu" #bukan mid bot nya ya tapi mid si pembuat bot
-admin= "mid kamu" #yang ini samakan aja kayak mid creator
+Creator= "u295662d3d8c1f0a3df34c736a3db3072" #bukan mid bot nya ya tapi mid si pembuat bot
+admin= "u295662d3d8c1f0a3df34c736a3db3072" #yang ini samakan aja kayak mid creator
 
 contact = cl.getProfile()
 backup1 = cl.getProfile()
